@@ -1,2 +1,3 @@
 # jpurma.github.io
-Jukka Purma
+
+Index page for my personal projects
